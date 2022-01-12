@@ -118,7 +118,7 @@ class Ui_MainWindow(object):
     def pressedInit(self):
         print("[INFO]: Calling main program (main from the source code)")
         self.logCheckBox()
-        st = "python3.5 dataPlotter.py -s "+str(saveLog)+" -r "+str(refreshRate)
+        st = "python dataPlotter.py -s "+str(saveLog)+" -r "+str(refreshRate)
         os.system(st)
 
 
