@@ -2,7 +2,7 @@
 
 Work for the lecture Microprocessor Systems ENGC50 from Federal University of Bahia.
 
-Implementation of a Data Logger using C and Python to retrieve the data from sensors (ADC) from ATMega328.
+Implementation of a Data Logger using C++ and Python to retrieve the data from sensors (ADC) from ATMega328.
 
 ![dataplotter](assets/dataplotter.gif)
 
